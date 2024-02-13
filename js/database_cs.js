@@ -489,12 +489,12 @@ classNames_cs = {
                 },
                 {
                     "name": "am-cf-04",
-                    "image": "attack-modifiers/CF/am-cf-02.jpg",
+                    "image": "attack-modifiers/CF/am-cf-04.png",
                     "xws": "amchieftain04"
                 },
                 {
                     "name": "am-cf-05",
-                    "image": "attack-modifiers/CF/am-cf-02.jpg",
+                    "image": "attack-modifiers/CF/am-cf-04.png",
                     "xws": "amchieftain05"
                 },
                 {
@@ -604,12 +604,12 @@ classNames_cs = {
                 },
                 {
                     "name": "am-fk-09",
-                    "image": "attack-modifiers/FK/am-fk-07.jpg",
+                    "image": "attack-modifiers/FK/am-fk-09.jpg",
                     "xws": "amfireknight09"
                 },
                 {
                     "name": "am-fk-10",
-                    "image": "attack-modifiers/FK/am-fk-08.jpg",
+                    "image": "attack-modifiers/FK/am-fk-10.jpg",
                     "xws": "amfireknight10"
                 },
                 {
@@ -3721,6 +3721,12 @@ abilities_cs = [
                 "image": "character-ability-cards/QA/cs-trudging-bulwark.png",
                 "xws": "trudgingbulwark",
                 "level": 3,
+            },
+            {
+                "name": "adaptive engineering",
+                "image": "character-ability-cards/QA/toa-msa-artificer.png",
+                "xws": "adaptiveengineering",
+                "level": 1,
             }
         ]
     },
